@@ -51,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/estudo/employee/CommissonEmployee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="79" column="68" lean-forward="true" selection-start-line="79" selection-start-column="68" selection-end-line="79" selection-end-column="68" />
+            <state relative-caret-position="145">
+              <caret line="74" column="5" lean-forward="true" selection-start-line="73" selection-start-column="53" selection-end-line="74" selection-end-column="5" />
               <folding>
                 <element signature="e#974#975#0" expanded="true" />
                 <element signature="e#1006#1007#0" expanded="true" />
@@ -63,17 +63,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/estudo/employee/BasePlusCommissionEmployee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="44" column="32" lean-forward="true" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+            <state relative-caret-position="489">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               <folding>
-                <element signature="e#1037#1038#0" expanded="true" />
                 <element signature="e#1106#1107#0" expanded="true" />
-                <element signature="e#1155#1156#0" expanded="true" />
-                <element signature="e#1183#1184#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/estudo/employee/CommissionEmployeeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -211,16 +217,15 @@
       <workItem from="1551310294511" duration="1198000" />
       <workItem from="1551356953920" duration="731000" />
       <workItem from="1551359404856" duration="3198000" />
-      <workItem from="1551363079396" duration="529000" />
+      <workItem from="1551363079396" duration="1073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16996000" />
+    <option name="totallyTimeSpent" value="17540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2189394" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -290,8 +295,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/estudo/employee/CommissonEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="79" column="68" lean-forward="true" selection-start-line="79" selection-start-column="68" selection-end-line="79" selection-end-column="68" />
+        <state relative-caret-position="145">
+          <caret line="74" column="5" lean-forward="true" selection-start-line="73" selection-start-column="53" selection-end-line="74" selection-end-column="5" />
           <folding>
             <element signature="e#974#975#0" expanded="true" />
             <element signature="e#1006#1007#0" expanded="true" />
@@ -303,14 +308,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/estudo/employee/BasePlusCommissionEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="44" column="32" lean-forward="true" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+        <state relative-caret-position="489">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
-            <element signature="e#1037#1038#0" expanded="true" />
             <element signature="e#1106#1107#0" expanded="true" />
-            <element signature="e#1155#1156#0" expanded="true" />
-            <element signature="e#1183#1184#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/estudo/employee/CommissionEmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
         </state>
       </provider>
     </entry>
