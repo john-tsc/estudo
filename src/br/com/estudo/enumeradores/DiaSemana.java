@@ -12,4 +12,8 @@ public enum DiaSemana {
         }
         this.dia = dia;
     }
+
+    public int getDia() {
+        return dia;
+    }
 }
