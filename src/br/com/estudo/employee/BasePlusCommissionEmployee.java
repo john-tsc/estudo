@@ -34,4 +34,16 @@ public class BasePlusCommissionEmployee {
     public void setCommissonEmployee(CommissonEmployee commissonEmployee) {
         this.commissonEmployee = commissonEmployee;
     }
+
+
+    public double earnings(){
+        return getBaseSalaty() + commissonEmployee.earnings();
+    }
+
+    @Override
+    public String toString(){
+        return String.format("%s: %s%n%s: %.2f",
+                "Base salaried ", commissonEmployee.toString(),
+                "Base salary", getBaseSalaty());
+    }
 }
