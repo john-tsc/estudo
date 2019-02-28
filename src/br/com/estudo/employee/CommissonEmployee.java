@@ -68,4 +68,18 @@ public class CommissonEmployee {
         }
         this.commissionRate = commissionRate;
     }
+
+    //Calcula os lucros
+    public double earnings() {
+        return getCommissionRate() * getGlossSales();
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%s: %s %s%n %s: %s%n %s: %.2f%n %s: %.2f",
+                "Comission employee:", getFisrtName(),getLastName(),
+                "Social security namber:",getSocialSecurityNamber(),
+                "Gloss Sales:",getGlossSales(),
+                "Commission rate:", getCommissionRate());
+    }
 }
