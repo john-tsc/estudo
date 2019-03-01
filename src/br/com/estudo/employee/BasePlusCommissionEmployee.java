@@ -7,7 +7,7 @@ public class BasePlusCommissionEmployee {
     private CommissonEmployee commissonEmployee;
 
 
-
+    //Construtor da classe.
     public BasePlusCommissionEmployee(double baseSalaty, CommissonEmployee commissonEmployee) {
         if (baseSalaty < .0) {
             throw new IllegalArgumentException("Base salary most be >= 0.0.");
@@ -16,6 +16,7 @@ public class BasePlusCommissionEmployee {
         this.baseSalaty = baseSalaty;
         this.commissonEmployee = commissonEmployee;
     }
+
 
     public double getBaseSalaty() {
         if (baseSalaty < .0) {
