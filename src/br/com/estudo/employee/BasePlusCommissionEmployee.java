@@ -6,6 +6,8 @@ public class BasePlusCommissionEmployee {
     private double baseSalaty;
     private CommissonEmployee commissonEmployee;
 
+
+
     public BasePlusCommissionEmployee(double baseSalaty, CommissonEmployee commissonEmployee) {
         if (baseSalaty < .0) {
             throw new IllegalArgumentException("Base salary most be >= 0.0.");
