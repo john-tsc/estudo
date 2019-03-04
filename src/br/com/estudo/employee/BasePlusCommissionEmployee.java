@@ -4,7 +4,8 @@ package br.com.estudo.employee;
 
 public class BasePlusCommissionEmployee {
     private double baseSalaty;
-    private CommissonEmployee commissonEmployee;
+    private CommissonEmployee commissonEmployee; /*esta variável terá sua própria instância nesta classe, Assim como
+    as outras*/
 
 
     //Construtor da classe.
